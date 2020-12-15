@@ -5,6 +5,7 @@ with open(sys.argv[1], 'r') as f:
 ans = 0
 for li in lines:
     for i in lines:
-        if(i != li and i+li==2020):
-            ans = i*li            
+        for i2 in lines:
+            if(i+li+i2==2020):
+              ans = i*li*i2            
 print(ans)
