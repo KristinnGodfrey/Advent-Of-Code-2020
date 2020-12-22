@@ -11,7 +11,7 @@ def checkIyr(state):
 def checkEyr(state):
     return int(state) >= 2020 and int(state) <= 2030
 
-#Virkar kannski ekki
+#Virkar mögulega ekki
 def checkHgt(state):
     if 'cm' in state:
         state = state.split('cm')
@@ -21,6 +21,22 @@ def checkHgt(state):
         state = state.split('in')
         state[0] = int(state[0])      
         if state[0] >= 59 and state[0] <= 76: return True
+
+def checkHcl(state):
+    return re.match('#[0-9]|[a-f]{6}', str(state))
+
+def checkEcl(state):
+    if not re.search('amb|blu|brn|gry|grn|hzl|oth', str(state)):
+        # print(state)
+        return False
+    # if re.search('amb|blu|brn|gry|grn|hzl|oth', str(state)):
+    #     print(state)
+    # return re.search('amb|blu|brn|gry|grn|hzl|oth', str(state))
+    return True
+
+def checkPid(state):
+    return re.match('0*\d{9}', str(state))
+
 
 # init
 states = {'byr': False,'iyr': False,'eyr': False,'hgt': False,'hcl': False,'ecl': False,'pid': False,'cid': False }
@@ -32,22 +48,37 @@ for li in lines:
     li = re.split('\s|\\n',li) 
 
     for i in li:
-        i = i.split(':')            
+        i = i.split(':')     
+        # print(i)       
         if 'byr' in i and checkByr(i[1]): states['byr'] = True 
+        else:
+            print("YEEEEEEEEEEEEEEEE: ")
+            print(i)
         if 'iyr' in i and checkIyr(i[1]): states['iyr'] = True
+        else:
+            print("YEEEEEEEEEEEEEEEE: ")
+            print(i)
         if 'eyr' in i and checkEyr(i[1]): states['eyr'] = True            
-        if 'hgt' in i and checkHgt(i[1]): states['hgt'] = True           
-            # if 'cm' in i[1]:
-            #     print(i[1])
-            # elif 'in' in i[1]:
-            #     print(i[1])
-            # states['hgt'] = True
-            # print(i)
-        if 'hcl' in i: states['hcl'] = True
-        if 'ecl' in i: states['ecl'] = True
-        if 'pid' in i: states['pid'] = True
+        else:
+            print("YEEEEEEEEEEEEEEEE: ")
+            print(i)
+        if 'hgt' in i and checkHgt(i[1]): states['hgt'] = True      
+        else:
+            print("YEEEEEEEEEEEEEEEE: ")
+            print(i)
+        if 'hcl' in i and checkHcl(i[1]): states['hcl'] = True
+        else:
+            print("YEEEEEEEEEEEEEEEE: ")
+            print(i)
+        if 'ecl' in i and checkEcl(i[1]): states['ecl'] = True
+        else:
+            print("YEEEEEEEEEEEEEEEE: ")
+            print(i)
+        if 'pid' in i and checkPid(i[1]): states['pid'] = True
+        else:
+            print("Didnt work: ")
+            print(i)
 
-        # print(i)
     # validate    
     counter = 0
 
