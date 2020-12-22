@@ -20,10 +20,7 @@ def checkHgt(state):
     elif 'in' in state:
         state = state.split('in')
         state[0] = int(state[0])      
-        if state[0] >= 59 and state[0] <= 76: 
-            print(state)
-            return True
-    return True
+        if state[0] >= 59 and state[0] <= 76: return True
 
 # init
 states = {'byr': False,'iyr': False,'eyr': False,'hgt': False,'hcl': False,'ecl': False,'pid': False,'cid': False }
