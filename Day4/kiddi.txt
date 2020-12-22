@@ -1,0 +1,571 @@
+1
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+2
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+3
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+4
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+5
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+6
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+7
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+8
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+9
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': False, 'pid': True, 'cid': False}
+10
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+11
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+12
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': False}
+13
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+14
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+15
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+16
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+17
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+18
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+19
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+20
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+21
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+22
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+23
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+24
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+25
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+26
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+27
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+28
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+29
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+30
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+31
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+32
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+33
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+34
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': False}
+35
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+36
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+37
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+38
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': True}
+39
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+40
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+41
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+42
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+43
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+44
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+45
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+46
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+47
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+48
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+49
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+50
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+51
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+52
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': False, 'pid': True, 'cid': True}
+53
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': False, 'cid': False}
+54
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+55
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+56
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+57
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+58
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+59
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+60
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+61
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+62
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': True}
+63
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+64
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+65
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+66
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+67
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+68
+{'byr': True, 'iyr': True, 'eyr': False, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+69
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+70
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+71
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+72
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+73
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+74
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+75
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+76
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+77
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+78
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+79
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+80
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+81
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+82
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+83
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+84
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+85
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+86
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+87
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+88
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+89
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+90
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+91
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+92
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+93
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+94
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+95
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+96
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+97
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+98
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+99
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+100
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+101
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+102
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+103
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+104
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+105
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+106
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': False, 'cid': True}
+107
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+108
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+109
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+110
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+111
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+112
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+113
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+114
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+115
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+116
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+117
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+118
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+119
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+120
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+121
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+122
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+123
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+124
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+125
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+126
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+127
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+128
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+129
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+130
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+131
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+132
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+133
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+134
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+135
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+136
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+137
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': False, 'pid': True, 'cid': False}
+138
+{'byr': True, 'iyr': True, 'eyr': False, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+139
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': True}
+140
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+141
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+142
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+143
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+144
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+145
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+146
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+147
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+148
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+149
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+150
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+151
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+152
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+153
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+154
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+155
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+156
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': False, 'pid': True, 'cid': True}
+157
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+158
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+159
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+160
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+161
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+162
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+163
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+164
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+165
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+166
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+167
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+168
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+169
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+170
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': False, 'pid': True, 'cid': False}
+171
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+172
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+173
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+174
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+175
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+176
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+177
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+178
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+179
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+180
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+181
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+182
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+183
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+184
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+185
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+186
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+187
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+188
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+189
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+190
+{'byr': False, 'iyr': True, 'eyr': False, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+191
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+192
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+193
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+194
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+195
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+196
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+197
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+198
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+199
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': False}
+200
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+201
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+202
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+203
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+204
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+205
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+206
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+207
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+208
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+209
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+210
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+211
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+212
+{'byr': True, 'iyr': True, 'eyr': False, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+213
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+214
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+215
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+216
+{'byr': True, 'iyr': True, 'eyr': False, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': False}
+217
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+218
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+219
+{'byr': True, 'iyr': True, 'eyr': False, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+220
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+221
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+222
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+223
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+224
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+225
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+226
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+227
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+228
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+229
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+230
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': False}
+231
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+232
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+233
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+234
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+235
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+236
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+237
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+238
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+239
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+240
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+241
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+242
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+243
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+244
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+245
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+246
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+247
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+248
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+249
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+250
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+251
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': False, 'ecl': True, 'pid': True, 'cid': True}
+252
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+253
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+254
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+255
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+256
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+257
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+258
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': False, 'ecl': True, 'pid': True, 'cid': False}
+259
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+260
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+261
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+262
+{'byr': False, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+263
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': False, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+264
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+265
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+266
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+267
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+268
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+269
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+270
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+271
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+272
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+273
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+274
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': False}
+275
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+276
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+277
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+278
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': False, 'cid': True}
+279
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+280
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+281
+{'byr': True, 'iyr': False, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': True}
+282
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+283
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+284
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+285
+{'byr': True, 'iyr': True, 'eyr': True, 'hgt': True, 'hcl': True, 'ecl': True, 'pid': True, 'cid': False}
+240
