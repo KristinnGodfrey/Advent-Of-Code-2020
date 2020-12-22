@@ -8,3 +8,4 @@ for li in lines:
         if(i != li and i+li==2020):
             ans = i*li            
 print(ans)
+        
