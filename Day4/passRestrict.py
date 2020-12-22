@@ -22,8 +22,8 @@ for li in lines:
 
     # validate    
     counter = 0
-    state = states.values()
-    
+
+    state = states.values()    
     for i in state:
         if i == True:
             counter += 1
