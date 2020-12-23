@@ -38,7 +38,6 @@ for li in lines:
 
     for i in li:
         i = i.split(':')     
-        print(i[1])     
         if 'byr' in i and checkByr(i[1]): states['byr'] = True 
         if 'iyr' in i and checkIyr(i[1]): states['iyr'] = True
         if 'eyr' in i and checkEyr(i[1]): states['eyr'] = True
