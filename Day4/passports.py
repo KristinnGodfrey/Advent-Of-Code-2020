@@ -19,7 +19,7 @@ for li in lines:
         if 'hcl' in i: states['hcl'] = True
         if 'ecl' in i: states['ecl'] = True
         if 'pid' in i: states['pid'] = True
-
+    print()
     # validate    
     counter = 0
 
@@ -31,6 +31,7 @@ for li in lines:
         valid +=1
 
     # reset states
+    
     states = {'byr': False,'iyr': False,'eyr': False,'hgt': False,'hcl': False,'ecl': False,'pid': False,'cid': False }
 
 print(valid)
