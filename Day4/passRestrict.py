@@ -3,14 +3,10 @@ with open('input.txt') as f:
     lines = f.read()
 
 def checkByr(state):
-    if int(state) >= 1920 and int(state) <= 2002:
-        # print(state)
-        return True
+    return int(state) >= 1920 and int(state) <= 2002
 
 def checkIyr(state):
-    if not int(state) >= 2010 and int(state) <= 2020:
-        # print(state)
-        return True
+    return int(state) >= 2010 and int(state) <= 2020        
 
 def checkEyr(state):
     return int(state) >= 2020 and int(state) <= 2030
@@ -18,14 +14,13 @@ def checkEyr(state):
 def checkHgt(state):
     if 'cm' in state:
         state = state.split('cm')
-        if int(state[0]) >= 150 and int(state[0]) <= 193: return True
+        return int(state[0]) >= 150 and int(state[0]) <= 193
     elif 'in' in state:
         state = state.split('in')
-        if int(state[0]) >= 59 and int(state[0]) <= 76: return True
+        return int(state[0]) >= 59 and int(state[0]) <= 76
 
 def checkHcl(state):
-    if re.match('#([0-9]|[a-f]){6}', str(state)):
-        return True
+    return re.match('#([0-9]|[a-f]){6}', str(state))
 
 def checkEcl(state):
     return re.match('(amb|blu|brn|gry|grn|hzl|oth)', str(state))
@@ -34,7 +29,7 @@ def checkPid(state):
     return re.match('0*\d{9}', str(state))
 
 # init
-states = {'byr': False,'iyr': False,'eyr': False,'hgt': False,'hcl': False,'ecl': False,'pid': False,'cid': False }
+states = {'byr': False,'iyr': False,'eyr': False,'hgt': False,'hcl': False,'ecl': False,'pid': False,'cid': False}
 valid = 0
 
 lines = lines.split('\n\n') 
@@ -63,6 +58,6 @@ for li in lines:
         valid +=1
 
     # reset states
-    states = {'byr': False,'iyr': False,'eyr': False,'hgt': False,'hcl': False,'ecl': False,'pid': False,'cid': False }
+    states = {'byr': False,'iyr': False,'eyr': False,'hgt': False,'hcl': False,'ecl': False,'pid': False,'cid': False}
 
 print(valid)
